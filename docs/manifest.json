@@ -1,14 +1,14 @@
 {
-  "short_name": "todo-pwa",
-  "name": "todo-pwa",
+  "short_name": "todo-icon",
+  "name": "todo-icon",
   "icons": [
     {
-      "src":"https://process.filestackapi.com/resize=width:144/CxfFZvFqQu65W2mQACmj",
+      "src":"https://process.filestackapi.com/resize=width:144/mJIfmKPKTz6CnJQN2BMA",
       "sizes": "144x144",
       "type": "image/png"
     }
   ],
-  "start_url": "/todo-pwa/?utm_source=homescreen",
+  "start_url": "/todo-icon/?utm_source=homescreen",
   "background_color": "#000",
   "theme_color": "#536878",
   "display": "standalone"
