@@ -9,7 +9,7 @@ module.exports = {
   output: {
     path: path.join(__dirname, "docs"),
     filename: "bundle.js",
-    publicPath: "/NAME/"
+    publicPath: "/todo-icon/"
   },
   module: {
     loaders: [{

@@ -1,9 +1,9 @@
 {
-  "short_name": "NAME",
-  "name": "NAME",
+  "short_name": "todo-icon",
+  "name": "todo-icon",
   "icons": [
     {
-      "src":"ICON",
+      "src":"https://process.filestackapi.com/resize=width:144/mJIfmKPKTz6CnJQN2BMA",
       "sizes": "144x144",
       "type": "image/png"
     }
